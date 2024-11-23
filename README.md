@@ -24,6 +24,7 @@ This project uses two models for classification:
 
 - Logistic Regression
 - Decision Tree Classifier
+- XG Boost
   
 The models are evaluated using accuracy, F1 score, precision, and recall. Once trained, the model is saved using joblib and can be reused for future predictions.
 
